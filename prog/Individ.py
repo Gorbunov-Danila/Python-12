@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 def recursive_sum(arr):
     """
     Рекурсивно подсчитывает сумму элементов массива.
